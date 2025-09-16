@@ -25,7 +25,7 @@ This project focuses on understanding employee attrition (how many employees lea
 
    If attrition = “No” → 0
 
- - Created a measure Attrition Rate = (Number of employees left ÷ Total employees).
+ - Created a measure Attrition Rate = (Number of employees left / Total employees).
 
  - These transformations helped to calculate attrition at different levels (by age, salary, department, etc.).
 
