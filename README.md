@@ -1,3 +1,6 @@
+
+<img width="1240" height="700" alt="image" src="https://github.com/user-attachments/assets/af1fb16b-a1a5-4943-b868-c9736a019eec" />
+
 📊 HR Analytics Dashboard – Employee Performance & Attrition Analysis
 
 This project focuses on understanding employee attrition (how many employees leave the company) and finding insights to improve retention & performance.
@@ -64,6 +67,8 @@ This project focuses on understanding employee attrition (how many employees lea
 
    Employees from Life Sciences background leave most often.
 
+
+
    Likely due to lack of technical skills → Upskilling programs are needed.
 
   3. Age Group Impact
@@ -98,3 +103,4 @@ This project focuses on understanding employee attrition (how many employees lea
   - HR Analytics Dataset (CSV)
 
   - MS-Excel
+    
